@@ -1,0 +1,5 @@
+17:52:55.043 com.ibm.rmi.iiop.Connection send:2262 P=558853:O=0:CT ORBRas[default]  org.omg.CORBA.COMM_FAILURE: purge_calls:1927 Reason: CONN_ABORT (1), State: ABORT (5)  vmcid: 0x4942f000  minor code: 774 completed: Maybe
+	at com.ibm.rmi.iiop.Connection.purge_calls(Connection.java:1926)
+	at com.ibm.rmi.iiop.Connection.doReaderWorkOnce(Connection.java:3033)
+	at com.ibm.rmi.transport.ReaderThread.run(ReaderPoolImpl.java:138)
+

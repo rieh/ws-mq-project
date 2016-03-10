@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/xuxiao/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xuxiao/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.ibm.mq.headers.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.ibm.mq.pcf.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/com.springsource.slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/dhbcore.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/MQ_JAR/com.ibm.jaxws.thinclient_7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/MQ_JAR/com.ibm.ws.ejb.thinclient_7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/MQ_JAR/com.ibm.ws.messagingClient.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/MQ_JAR/com.ibm.ws.orb_7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/dependencies/wmq/MQ_JAR/com.ibm.ws.sib.client.thin.jms_7.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
